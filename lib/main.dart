@@ -59,6 +59,7 @@ class PianoApp extends StatelessWidget {
                   },
                 ),
               ),
+              // this is a invisible button on screen
               Expanded(
                 // ignore: missing_required_param
                 child: FlatButton(
